@@ -9,6 +9,7 @@ class Contact extends Component {
       formData: {
         firstName: "",
         lastName: "",
+        totalScore: 0,
       },
     };
   }
